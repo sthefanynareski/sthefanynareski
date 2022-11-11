@@ -10,4 +10,3 @@
 - minha formaçao esta prevista para o ano de 2024
 - eu estou no primeiro ano do ensino medio 
 - eu moro no Canoeiro, Lapa
-- 
